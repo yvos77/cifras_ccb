@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "slug": "cristo-meu-mestre",
+        "numero": 1,
+        "nome": "Cristo, meu Mestre",
+        "colecao": "hinario",
+        "tom": "Eb",
+        "secoes": [
+            { "tipo": "estrofe", "linhas": [ "[C]Cristo, meu [G]Mestre [F]e meu [C]Senhor", "[F]Eu Te [C]adoro, por [D7]fé, com [G]fervor;", "[C]Rogo que [G]guardes [F]meu [G]coração;", "[C]Vem [F]protegê[C]-lo com [G]Tua [C]unção", "[F]E [C]defendê-[Am]lo, ó meu [G]Guardião[C]." ] },
+            { "tipo": "estrofe", "linhas": [ "[C]Mestre di[G]vino, [F]sempre sen[C]ti", "[F]Meu co[C]ração depen[D7]dente [G]de Ti;", "[C]Bom funda[G]mento [F]dá-[G]lhe, Senhor,", "[C]Dá-[F]lhe firme[C]za vir[G]tude, [C]valor;", "[F]E [C]fortale[Am]za, ó meu [G]Protetor[C]" ] },
+            { "tipo": "estrofe", "linhas": [ "[C]Vale pro[G]fundo, [F]cheio [C]de mal,", "[F]É es[C]te mundo, Ó [D7]Rei di[G]vinal", "[C]Só Tua [G]força [F]po[G]de manter", "[C]San[F]to e pu[C]ro, na [G]graça, [C]meu ser,", "[F]Sem[C]pre segu[Am]ro, com fé [G]e poder[C]." ] },
+            { "tipo": "estrofe", "linhas": [ "[C]Mestre Pie[G]doso, [F]com Tu[C]a mão,", "[F]Faze [C]perfeito o [D7]meu co[G]ração", "[C]Santo, ar[G]doro[F]so [G]em Te servir", "[C]Sem[F]pre volta[C]do aos [G]bens do [C]porvir", "[F]Mes[C]tre ama[Am]do, dese[G]jo Te ouvir[C]." ] }
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "faz-nos-ouvir-tua-voz",
+        "numero": 3,
+        "nome": "Faz-nos ouvir Tua voz",
+        "colecao": "hinario",
+        "tom": "G",
+        "secoes": [
+            { "tipo": "estrofe", "linhas": [ "[G]Faz-nos ouvir Tua [D]voz [G]gloriosa,", "[C]Ó nosso [G]Mestre, [D]fiel [G]Redentor;", "A Tua igreja, [D]dileta [G]esposa,", "[C]Sente por [G]Ti [D]inefável [G]amor." ] },
+            { "tipo": "estrofe", "linhas": [ "[G]Ó Jesus Cristo, ce[D]les[G]te Esposo,", "[C]Vem condu[G]zir-nos, [D]por Teu [G]grande amor;", "Já antevemos, ó [D]Rei majes[G]toso,", "[C]A glória [G]e[D]terna do Teu [G]esplendor." ] },
+            { "tipo": "estrofe", "linhas": [ "[G]A Tua igreja [D]es[G]tá se adornando", "[C]Para en[G]contrar-[D]se Con[G]tigo, ó Jesus;", "Com santas vestes, es[D]tá aguar[G]dando", "[C]Ver Tua [G]fa[D]ce no reino [G]de luz." ] },
+            { "tipo": "coro", "linhas": [ "[D]Ó caro [G]Salvador, [D]a Tua [G]voz de amor", "[C]Nos guia [G]para o céu, [D]glorioso [G]lar;", "[C]Pela [G]Palavra vem [D]nos [G]consolar." ] }
+        ]
+    },
+    {
+        "id": 42,
+        "slug": "o-minha-alma-por-que-te-abates",
+        "numero": 42,
+        "nome": "Ó minha alma, por que te abates?",
+        "colecao": "hinario",
+        "tom": "F",
+        "secoes": [
+            { "tipo": "estrofe", "linhas": [ "[F]Ó minha alma, por que te abates?", "Em Deus [C7]espera nos teus [F]combates;", "Se entre [C7]males tu te [F]debates,", "Em Deus [C7]confia, Ele é [F]fiel." ] },
+            { "tipo": "estrofe", "linhas": [ "[F]Por que, minh'alma, estás aflita?", "Deus te [C7]consola, te e[F]difica;", "Só Ele [C7]guarda e san[F]tifica;", "Sê fir[C7]me n'Ele, que é [F]fiel." ] },
+            { "tipo": "estrofe", "linhas": [ "[F]Vigor e graça só Deus concede,", "Com fé [C7]suplica, a E[F]le pede;", "Jesus, o [C7]justo, por ti [F]intercede;", "Sê, mi[C7]nha alma, a Deus, [F]fiel." ] },
+            { "tipo": "final", "linhas": [ "[F]Deus é o [C7]sustento da minha [F]vida,", "Dará [C7]conforto em [F]toda [F7]lida;", "Ao Seu [Bb]descanso Deus te [F]convida;", "Ó [D7]minha [Gm]alma, [C7]confia em [F]Deus." ] }
+        ]
+    },
+    {
+        "id": 481,
+        "slug": "esta-escrito",
+        "numero": null,
+        "nome": "Está escrito",
+        "colecao": "avulso",
+        "tom": "A",
+        "secoes": [
+            { "tipo": "estrofe", "linhas": [ "[A]Está escrito: não é dos fortes a [E]batalha;", "E nem [A]do braço a força de um [E]vencedor;", "Mas do [F#m]Senhor que tira força da [D]fraqueza;", "[A]Exalta o fraco [E]e abate o tentador" ] },
+            { "tipo": "estrofe", "linhas": [ "[A]Foi de Davi a força que venceu [E]Golias?", "E foi [A]braço de Gideão que o [E]fez vencer?", "Foi o [F#m]Senhor que derrubou o [D]grande Golias!", "[A]Foi o Senhor que os [E]midianitas abateu!" ] },
+            { "tipo": "final", "linhas": [ "[A]Irmão, não temas, do Senhor é a [E]batalha;", "Apenas [D]creia e não pare de [A]lutar;[E]", "Não há gigante que prospere em nossa [D]vida;", "Se [A]em nosso [E]coração a fé [A]reinar." ] }
+        ]
+    }
+]
