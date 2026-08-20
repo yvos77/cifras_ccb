@@ -14,6 +14,19 @@
         ]
     },
     {
+        "id": 2,
+        "slug": "de-deus-tu-es-eleita",
+        "numero": 2,
+        "nome": "De Deus Tu és Eleita",
+        "colecao": "hinario",
+        "tom": "Eb",
+        "secoes": [
+            { "tipo": "estrofe", "linhas": [ "", "", "", "" ] },
+            { "tipo": "estrofe", "linhas": [ "", "", "", "" ] },
+            { "tipo": "estrofe", "linhas": [ "", "", "", "" ] }
+        ]
+    },
+    {
         "id": 3,
         "slug": "faz-nos-ouvir-tua-voz",
         "numero": 3,

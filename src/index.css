@@ -58,6 +58,24 @@ body {
   margin: 0;
 }
 
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* border: 1px solid blue; */
+}
+
+ul {
+  padding: 1rem;
+  /* border: 1px solid white; */
+}
+
+li {
+  text-align: center;
+  padding: 0.2rem;
+  /* border: 1px solid red; */
+}
+
 #root {
   width: 1126px;
   max-width: 100%;
