@@ -2,6 +2,24 @@ import { useParams, Link } from "react-router-dom";
 import { buscarPorSlug } from "../data/repositorio";
 import { useState, useEffect } from "react";
 
+function ordenar(secoes) {
+
+    const estrofes = secoes.filter((secao) => secao.tipo === "estrofe");
+    const coros = secoes.filter((secao) => secao.tipo === "coro");
+    const finais = secoes.filter((secao) => secao.tipo === "final");
+
+    const conhecidos = ["estrofe", "coro", "final"];
+    const outros = secoes.filter((secao) => !conhecidos.includes(secao.tipo))
+
+    return [
+        ...estrofes.slice(0, 1),
+        ...coros,
+        ...estrofes.slice(1),
+        ... finais,
+        ...outros,
+    ];
+}
+
 function PaginaHino() {
     const { slug } = useParams();
     const [hino, setHino] = useState(null);
@@ -23,8 +41,24 @@ function PaginaHino() {
         )
     }
 
+    const secoesExibidas = ordenar(hino.secoes);
+
     return (
-        <h1>{hino.nome}</h1>
+        <div>
+            <h1>{hino.nome}</h1>
+            <div>
+                {secoesExibidas.map((secao, i) => (
+                    <div key={i}>
+                        <h2>
+                            {secao.tipo}
+                        </h2>
+                        {secao.linhas.map((linha, j) => (
+                            <p key={j}>{linha}</p>
+                        ))}
+                    </div>
+                ))}
+            </div>
+        </div>
     );
 }
 
