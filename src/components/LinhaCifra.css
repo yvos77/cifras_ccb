@@ -1,0 +1,27 @@
+.linha-cifra {
+    margin-bottom: 0.35rem;
+    /* border: 1px solid white; */
+}
+
+.pedaco {
+    display: inline-block;
+    vertical-align: bottom;
+    /* border: 1px solid blue; */
+}
+
+.pedaco-acorde {
+    display: block;
+    min-height: 1.3em;
+    font-weight: 700;
+    white-space: pre;
+    color: var(--accent);
+}
+
+.pedaco-letra {
+    display: block;
+    white-space: pre;
+}
+
+.secao {
+  margin-bottom: 4rem;
+}
