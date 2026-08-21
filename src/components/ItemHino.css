@@ -1,0 +1,25 @@
+.item-link {
+  display: flex;
+  gap: 0.75rem;
+  align-items: baseline;
+  padding: 0.7rem 0rem;
+  min-height: 44px;
+  border-radius: 8px;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.15s;
+}
+
+.item-link:active {
+    background: var(--accent-bg);
+}
+
+.item-numero {
+  flex: 0 0 2rem;
+  text-align: right;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.item-nome {
+  color: var(--text-h);
+}
