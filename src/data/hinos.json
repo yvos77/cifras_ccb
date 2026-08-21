@@ -17,7 +17,7 @@
         "id": 2,
         "slug": "de-deus-tu-es-eleita",
         "numero": 2,
-        "nome": "De Deus Tu és Eleita",
+        "nome": "De Deus tu és Eleita",
         "colecao": "hinario",
         "tom": "Eb",
         "secoes": [
@@ -55,6 +55,19 @@
         ]
     },
     {
+        "id": 199,
+        "slug": "senhor-tu-es-a-minha-porcao",
+        "numero": 199,
+        "nome": "Senhor, Tu és a minha Porção",
+        "colecao": "hinario",
+        "tom": "Eb",
+        "secoes": [
+            { "tipo": "estrofe", "linhas": [ "", "", "", "" ] },
+            { "tipo": "estrofe", "linhas": [ "", "", "", "" ] },
+            { "tipo": "estrofe", "linhas": [ "", "", "", "" ] }
+        ]
+    },
+    {
         "id": 481,
         "slug": "esta-escrito",
         "numero": null,
@@ -62,9 +75,9 @@
         "colecao": "avulso",
         "tom": "A",
         "secoes": [
-            { "tipo": "estrofe", "linhas": [ "[A]Está escrito: não é dos fortes a [E]batalha;", "E nem [A]do braço a força de um [E]vencedor;", "Mas do [F#m]Senhor que tira força da [D]fraqueza;", "[A]Exalta o fraco [E]e abate o tentador" ] },
-            { "tipo": "estrofe", "linhas": [ "[A]Foi de Davi a força que venceu [E]Golias?", "E foi [A]braço de Gideão que o [E]fez vencer?", "Foi o [F#m]Senhor que derrubou o [D]grande Golias!", "[A]Foi o Senhor que os [E]midianitas abateu!" ] },
-            { "tipo": "final", "linhas": [ "[A]Irmão, não temas, do Senhor é a [E]batalha;", "Apenas [D]creia e não pare de [A]lutar;[E]", "Não há gigante que prospere em nossa [D]vida;", "Se [A]em nosso [E]coração a fé [A]reinar." ] }
+            { "tipo": "estrofe", "linhas": [ "[A]Está escrito: não é dos fortes a bat[E]alha;", "E nem do br[A]aço a força de um venced[E]or;", "Mas do Sen[F#m]hor que tira força da fraq[D]ueza;", "Exalta o fr[A]aco e ab[E]ate o tenta[A]dor" ] },
+            { "tipo": "estrofe", "linhas": [ "[A]Foi de Davi a força que venceu [E]Golias?", "Ou foi o [A]braço de Gideão que o fez ven[E]cer?", "Foi o Sen[F#m]hor que derrubou o grande Gol[D]ias!", "Foi o Sen[A]hor que os midian[E]itas abateu[A]!" ] },
+            { "tipo": "final", "linhas": [ "[A]Irmão, não temas, do Senhor é a bat[E]alha;", "Apenas [D]creia e não pare de lu[A]tar[E];", "Não há gig[A]ante que prospere em nossa [D]vida;", "Se em n[A]osso cora[E]ção a fé rei[A]nar." ] }
         ]
     }
 ]
