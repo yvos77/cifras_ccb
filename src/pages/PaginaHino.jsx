@@ -1,6 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import { buscarPorSlug } from "../data/repositorio";
 import { useState, useEffect } from "react";
+import LinhaCifra from "../components/LinhaCifra";
 
 function ordenar(secoes) {
 
@@ -48,12 +49,12 @@ function PaginaHino() {
             <h1>{hino.nome}</h1>
             <div>
                 {secoesExibidas.map((secao, i) => (
-                    <div key={i}>
-                        <h2>
+                    <div className="secao" key={i}>
+                        {/* <h2>
                             {secao.tipo}
-                        </h2>
+                        </h2> */}
                         {secao.linhas.map((linha, j) => (
-                            <p key={j}>{linha}</p>
+                            <LinhaCifra key={j} linha={linha} />
                         ))}
                     </div>
                 ))}
