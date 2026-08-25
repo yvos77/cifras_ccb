@@ -12,9 +12,14 @@
 .pedaco-acorde {
     display: block;
     min-height: 1.3em;
+    padding-right: 0.8em;
     font-weight: 700;
     white-space: pre;
     color: var(--accent);
+}
+
+.pedaco-acorde.colado {
+    padding-right: 0;
 }
 
 .pedaco-letra {
@@ -23,5 +28,6 @@
 }
 
 .secao {
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
+  /* border: 1px solid white; */
 }
