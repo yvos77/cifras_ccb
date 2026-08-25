@@ -23,3 +23,26 @@
 .item-nome {
   color: var(--text-h);
 }
+
+.voltar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin-bottom: 1rem;
+  margin-left: -0.75rem;
+  padding: 0 0 0.5rem 0;
+  font-size: 3.5rem;
+  color: #FFFFFF;
+  /* border: 1px solid white; */
+  border-radius: 8px;
+}
+
+.voltar:active {
+  background: var(--accent-bg);
+}
+
+.tomHino {
+  color: var(--accent)
+}
