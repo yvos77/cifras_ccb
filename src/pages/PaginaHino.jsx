@@ -46,13 +46,15 @@ function PaginaHino() {
 
     return (
         <div>
-            <h1>{hino.nome}</h1>
+            <Link to="/" className="voltar">{"«"}</Link>
+            <h1>{hino.numero ? `${hino.numero}. ${hino.nome}` : hino.nome}</h1>
             <div>
+                <p style={{"margin-bottom": "1rem"}}>Tonalidade: <span className="tomHino">{hino.tom}</span></p>
                 {secoesExibidas.map((secao, i) => (
                     <div className="secao" key={i}>
-                        {/* <h2>
+                        <h2>
                             {secao.tipo}
-                        </h2> */}
+                        </h2>
                         {secao.linhas.map((linha, j) => (
                             <LinhaCifra key={j} linha={linha} />
                         ))}
