@@ -1,0 +1,46 @@
+{
+    "id": 10,
+    "slug": "prossegui-vitoriosos-em-cristo",
+    "numero": 10,
+    "nome": "Prossegui vitoriosos em Cristo",
+    "colecao": "hinario",
+    "tom": "A",
+    "secoes": [
+        {
+            "tipo": "estrofe",
+            "linhas": [
+                "Prosse[A]gui vitoriosos em Cristo,",
+                "[E]le, em [E]breve, dos [A]céus vai vol[B7]tar;",
+                "[E]Manda[A]rá reco[D]lher Seus remidos",
+                "Para, à [E]glória eterna, os le[A]var."
+            ]
+        },
+        {
+            "tipo": "coro",
+            "linhas": [
+                "[A]Certa[E]mente exaltado se[A]rá",
+                "Quem o Nome de [B7]Cristo não ne[E]gar;",
+                "[E]xal[A]tado com [D]glória celes[A]tial,",
+                "Herda[E]rá a riqueza eter[A]nal."
+            ]
+        },
+        {
+            "tipo": "estrofe",
+            "linhas": [
+                "Prosse[A]gui, rejeitando o pecado,",
+                "Pois i[E]reis encon[A]trar o Se[B7]nhor;",
+                "[E]Para [A]vós, [E]le [D]tem preparado",
+                "Um lu[E]gar no Seu reino de a[A]mor."
+            ]
+        },
+        {
+            "tipo": "estrofe",
+            "linhas": [
+                "Prosse[A]gui nesta fé gloriosa,",
+                "O ini[E]migo de [A]vós fugi[B7]rá;",
+                "[E]Vigi[A]ai na ora[D]ção, no cuidado,",
+                "E con[E]vosco Jesus esta[A]rá."
+            ]
+        }
+    ]
+}
