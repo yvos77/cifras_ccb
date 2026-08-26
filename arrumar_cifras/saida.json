@@ -1,45 +1,36 @@
 {
-    "id": 10,
-    "slug": "prossegui-vitoriosos-em-cristo",
-    "numero": 10,
-    "nome": "Prossegui vitoriosos em Cristo",
+    "id": 23,
+    "slug": "23",
+    "numero": 23,
+    "nome": "O Senhor é o meu Pastor",
     "colecao": "hinario",
-    "tom": "A",
+    "tom": "G",
     "secoes": [
         {
             "tipo": "estrofe",
             "linhas": [
-                "Prosse[A]gui vitoriosos em Cristo,",
-                "[E]le, em [E]breve, dos [A]céus vai vol[B7]tar;",
-                "[E]Manda[A]rá reco[D]lher Seus remidos",
-                "Para, à [E]glória eterna, os le[A]var."
-            ]
-        },
-        {
-            "tipo": "coro",
-            "linhas": [
-                "[A]Certa[E]mente exaltado se[A]rá",
-                "Quem o Nome de [B7]Cristo não ne[E]gar;",
-                "[E]xal[A]tado com [D]glória celes[A]tial,",
-                "Herda[E]rá a riqueza eter[A]nal."
+                "[G]O Senhor é o [D]meu Pas[G]tor, [C]nada deixa[G]rá me fal[D]tar;",
+                "[G]Com a Sua [C]mansidão, [G]em verdes pastos [D]faz-me an[G]dar;",
+                "Refrigério, [D]fé e paz [B7]minha [Em7]alma [A]n´Ele a[D]chou;",
+                "[G]Nas ve[D]redas [G]celes[C]tiais, [G]os meus [D]passos Jesus fir[G]mou."
             ]
         },
         {
             "tipo": "estrofe",
             "linhas": [
-                "Prosse[A]gui, rejeitando o pecado,",
-                "Pois i[E]reis encon[A]trar o Se[B7]nhor;",
-                "[E]Para [A]vós, [E]le [D]tem preparado",
-                "Um lu[E]gar no Seu reino de a[A]mor."
+                "[G]Se eu tivesse [D]que an[G]dar [C]pelo vale [G]da morte, ó [D]Deus,",
+                "[G]Eu não teme[C]ria o mal, [G]porquanto estou nos [D]braços [G]Teus;",
+                "Tua vara, [D]ó Senhor, [B7]me con[Em7]serva em [A]reti[D]dão,",
+                "[G]Teu ca[D]jado [G]divi[C]nal [G]traz con[D]forto e consola[G]ção."
             ]
         },
         {
             "tipo": "estrofe",
             "linhas": [
-                "Prosse[A]gui nesta fé gloriosa,",
-                "O ini[E]migo de [A]vós fugi[B7]rá;",
-                "[E]Vigi[A]ai na ora[D]ção, no cuidado,",
-                "E con[E]vosco Jesus esta[A]rá."
+                "[G]Uma mesa [D]para [G]mim, [C]ó Senhor, Tu [G]vens prepa[D]rar;",
+                "[G]Com Teu óleo [C]vens me ungir, [G]fazes meu cálix [D]transbor[G]dar;",
+                "A bondade, [D]a mercê [B7]sobre [Em7]mim con[A]templa[D]rei;",
+                "[G]Nas mo[D]radas [G]do meu [C]Deus [G]para [D]sempre habita[G]rei."
             ]
         }
     ]

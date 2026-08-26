@@ -62,7 +62,7 @@
                 "linhas": [
                     "De [E]Deus tu és e[B]leita, i[A]greja [B]de Je[E]sus,",
                     "O teu di[G#7]vino [A]Mestre à [F#m]glória [E]te con[B]duz;",
-                    "Pre[E]para-te, pois [A]E[E]le mui [C#m]breve [C#7]volta[F#m]rá;",
+                    "Pre[E]para-te, pois[A] El[E]e mui [C#m]breve volta[F#m]rá;",
                     "A [E]glória que te es[A]pera já [B]preparada es[E]tá."
                 ]
             },
@@ -71,7 +71,7 @@
                 "linhas": [
                     "Com [E]celestiais a[B]dornos es[A]pera o [B]teu Se[E]nhor,",
                     "Vestida [G#7]de jus[A]tiça e [F#m]do di[E]vino a[B]mor;",
-                    "Di[E]leta és de [A]Cris[E]to, que [C#m]vida [C#7]te do[F#m]ou;",
+                    "Di[E]leta és de [A]Cris[E]to, que [C#m]vida te do[F#m]ou;",
                     "A [E]fim de resga[A]tar-te, Seu [B]sangue derra[E]mou."
                 ]
             },
@@ -80,7 +80,7 @@
                 "linhas": [
                     "É [E]grande tua [B]glória, i[A]greja [B]de Je[E]sus;",
                     "Consagra-[G#7]te a [A]Ele, an[F#m]dando em [E]Sua [B]luz;",
-                    "Em [E]breve, no Seu [A]rei[E]no, glo[C#m]riosa [C#7]entra[F#m]rás,",
+                    "Em [E]breve, no Seu [A]rei[E]no, glo[C#m]riosa entra[F#m]rás,",
                     "E a [E]face do Es[A]poso, no [B]céu, contempla[E]rás."
                 ]
             }
@@ -430,6 +430,556 @@
                     "O ini[E]migo de [A]vós fugi[B7]rá;",
                     "[E]Vigi[A]ai na ora[D]ção, no cuidado,",
                     "E con[E]vosco Jesus esta[A]rá."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "slug": "11",
+        "numero": 11,
+        "nome": "Ó igreja de Deus, resplandece",
+        "colecao": "hinario",
+        "tom": "A",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ó i[A]greja de Deus,resplande[E]ce",
+                    "E alegra-te, de cora[A]ção,",
+                    "Espa[D]lhando a semente ce[A]leste,",
+                    "Anun[E]ciando a veraz salva[A]ção."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "[A]Tu [E]és [A]a igreja de Jesus Cristo, o Cordei[E]ro,",
+                    "Que tem o Seu trono nos [A]céus;",
+                    "Ele, o [D]Justo, Fiel, Verda[A]deiro,",
+                    "Te da[E]rá as promessas de [A]Deus."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "És i[A]greja formosa e ama[E]da",
+                    "Por Cristo, o teu Salva[A]dor,",
+                    "Que te [D]quer sempre mais ador[A]nada",
+                    "De jus[E]tiça e sublime a[A]mor."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "À glo[A]riosa e celeste cida[E]de",
+                    "Irás, com Jesus, Salva[A]dor;",
+                    "Lá há [D]paz, grande amor, santi[A]dade;",
+                    "Lá ve[E]rás o fiel Cria[A]dor."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "slug": "12",
+        "numero": 12,
+        "nome": "Sempre em Jesus confiarei",
+        "colecao": "hinario",
+        "tom": "E",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Sempre em Je[E]sus confiarei, [A]Sua Pa[E]lavra [F#7]honra[B7]rei;",
+                    "Por Sua [E]morte atroz na cruz, [A]me conce[E]deu e[B7]terna [E]luz."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "[E]Cristo me [A]guia com po[E]der,",
+                    "Cristo me [A]guia [F#7]com sa[B7]ber;",
+                    "Ele é o A[E]migo mui fi[A]el,",
+                    "Cristo Je[E]sus, o E[B7]manu[E]el."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Os bons con[E]selhos de Jesus [A]são, para [E]mim, di[F#7]vina [B7]luz;",
+                    "Eles me [E]trazem retidão [A]e divi[E]nal con[B7]sola[E]ção."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Eu vou a[E]vante, com valor, [A]sigo por [E]fé o [F#7]meu Se[B7]nhor.",
+                    "No céu, um [E]dia, O verei [A]e igual a [E]Ele en[B7]tão se[E]rei."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "slug": "13",
+        "numero": 13,
+        "nome": "Confiemos em Deus",
+        "colecao": "hinario",
+        "tom": "",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ó a[A]mados, vence[E]remos este mundo engana[A]dor;",
+                    "Pela [C#]fé nós luta[F#m]remos, confi[B7]ando no Se[E]nhor."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Confi[A]emos em Deus,",
+                    "Ele é o nosso [E]Pai;",
+                    "Ele ouve os Seus[E], ao céu, levá-los [A]vai.",
+                    "Pelo Seu imenso a[D]mor",
+                    "Nos pro[B7]tege o Se[E]nhor;",
+                    "Oh! O[A]remos, com fer[D]vor,",
+                    "Ao grande [A]Deus, [E]Forma[A]dor."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Do Seu [A]trono glori[E]oso nos contempla o Se[A]nhor;",
+                    "Deus, o [C#]Todo-Pode[F#m]roso, nos con[B7]serva em a[E]mor."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "slug": "14",
+        "numero": 14,
+        "nome": "Manda os Teus dons celestes",
+        "colecao": "hinario",
+        "tom": "E",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[E]Os Teus fiéis, reunidos ante a Tua presen[B]ça,",
+                    "O santo Consolador esperam, ó Se[E]nhor.",
+                    "Todos, contritos, clamamos com fé e com reve[B]rência;",
+                    "Cumpre em nós a promessa de Deus, o Cria[E]dor."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "[E]Manda os Teus dons ce[B]lestes pelo Espírito [E]Santo;",
+                    "Cobre os fiéis com o [A]manto [B]do Teu Consola[E]dor."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[E]Os Teus fiéis, reunidos, buscam os Teus dons celes[B]tes;",
+                    "Clamam com todo o fervor: atende, ó Se[E]nhor!",
+                    "Esperançosos, aguardam, crendo no que prome[B]teste;",
+                    "Faze que todos sintamos o Teu Consola[E]dor."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[E]Os Teus fiéis, reunidos constantemente claman[B]do,",
+                    "Sentem, ó bom Redentor, celestial fer[E]vor;",
+                    "Pacientemente esperamos, sempre, com fé, implo[B]rando:",
+                    "Vem, ó Senhor, confirmar-nos com o Consola[E]dor!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "slug": "15",
+        "numero": 15,
+        "nome": "Ó alma que choras",
+        "colecao": "hinario",
+        "tom": "A",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[A]Ó alma que choras [E]com grande amar[A]gor,",
+                    "Se queres alívio, [B7]recorre ao Se[E]nhor;",
+                    "A [E]le implorando, [A]conforto acharás;",
+                    "[A7]Graça, e vir[D]tude, [E]e vida te[A]rás."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[A]Amigo sincero [E]é Cristo Je[A]sus,",
+                    "Que salva o perdido, [B7]ao céu o con[E]duz.",
+                    "Tua voz levanta [A]ao bom Redentor,",
+                    "[A7]Clama por so[D]corro, [E]clama ao teu Se[A]nhor."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[A]Ó alma cansada, [E]recorre ao Se[A]nhor,",
+                    "Ele te sustenta [B7]e te dá vi[E]gor;",
+                    "Auxílio do alto [A]não falta jamais,",
+                    "[A7]Em Cristo con[D]fia [E]e não chores [A]mais."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "slug": "16",
+        "numero": 16,
+        "nome": "Promessa excelente",
+        "colecao": "hinario",
+        "tom": "G",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Pro[G]messa excelente fi[C]zeste, ó [G]Deus;",
+                    "Fi[D]el cumprimento a Pa[G]lavra te[D]rá;",
+                    "Sen[G]tir Teu Espírito querem os [C]Teus;",
+                    "Teu [G]povo cla[D]mando es[G]tá."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "En[G]via, ó Deus, por amor,",
+                    "Teus [D]dons pelo Consola[G]dor.",
+                    "Vem nos revestir de poder divi[C]nal;",
+                    "Vi[G]sita-nos, [D]Pai eter[G]nal."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Oh! [G]Vem despertar-nos, a[C]mado Se[G]nhor;",
+                    "O Es[D]pírito Santo en[G]via dos [D]céus;",
+                    "Com [G]fé aguardamos o Consola[C]dor,",
+                    "Que [G]faz virtu[D]osos os [G]Teus."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "O [G]Teu Santo Espírito [C]nos guia[G]rá",
+                    "Em [D]toda verdade, jus[G]tiça e a[D]mor;",
+                    "Por [G]Ele Teu povo ensinado se[C]rá;",
+                    "Teu [G]Dom aguar[D]damos, Se[G]nhor."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "slug": "17",
+        "numero": 17,
+        "nome": "Ó Senhor, vem visitar-me",
+        "colecao": "hinario",
+        "tom": "G",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ó Se[G]nhor, vem visitar-me e alen[D]tar a minha [G]fé;",
+                    "Eu desejo consagrar-me e alcan[A]çar, de Ti, mer[D]cê."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "[G]Com o Es[C]pírito di[Am]vino",
+                    "Vem, Je[D]sus, me bati[G]zar;",
+                    "Aos Teus pés eu me in[C]clin[G]o",
+                    "E Te rogo sem cessar:",
+                    "Oh! [C]Vem, Se[G]nhor, [D]com Teu Dom me conso[G]lar."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ó Je[G]sus, és minha Sorte, és a [D]minha Salva[G]ção;",
+                    "Faz-me firme, faz-me forte pela [A]Tua santa un[D]ção."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "E ao [G]fim serei ditoso, pois Con[D]tigo esta[G]rei;",
+                    "No Teu reino glorioso, face a [A]face Te ve[D]rei."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "slug": "18",
+        "numero": 18,
+        "nome": "É Jesus meu Refúgio",
+        "colecao": "hinario",
+        "tom": "G",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Grande [G]é a tor[D]menta e a tribula[G]ção,",
+                    "Muitos são os combates, grande, a tenta[D]ção;",
+                    "Mas Je[G]sus, meu Ro[D]chedo e fiel Guardi[G]ão,",
+                    "É [C]a Forta[G]leza [C]que [D]dá prote[G]ção."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "É Je[G]sus meu Refúgio, meu fi[C]el Prote[G]tor,",
+                    "E [C]n'Ele abri[G]gado te[A]rei Seu Vi[D]gor;",
+                    "Cada [G]dia que passa, sinto [C]mais Seu a[G]mor",
+                    "E a [C]vida ce[G]leste [C]do [D]meu Salva[G]dor."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ao Se[G]nhor, mais u[D]nido eu almejo vi[G]ver",
+                    "E cumprir, neste mundo, Seu glorioso que[D]rer;",
+                    "Os Seus [G]passos se[D]guindo, eu irei rece[G]ber",
+                    "Mais [C]força e co[G]ra‒gem, [C]a [D]fim de ven[G]cer."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Vou, com [G]fé no meu [D]Mestre, a tormenta enfren[G]tar,",
+                    "Mesmo que fortemente ela se levan[D]tar;",
+                    "Com Je[G]sus, a vi[D]tória eu irei alcan[G]çar,",
+                    "Pois [C]Suas pro[G]messas [C]não [D]podem fa[G]lhar."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "slug": "19",
+        "numero": 19,
+        "nome": "Manda-nos Teu Poder",
+        "colecao": "hinario",
+        "tom": "A",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Manda, [A]ó Senhor, do céu, fogo [D]santo ao povo [A]Teu;",
+                    "Manda-[E]nos Teu po[A]der;",
+                    "Fogo que destrói o mal, fogo [D]santo, celes[A]tial;",
+                    "Manda-[E]nos Teu po[A]der."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Manda-[A]nos o Teu poder,",
+                    "O Po[E]der renovador, pelo [A]Teu imenso amor;",
+                    "Vem, Senhor, selar Teu povo",
+                    "Com o [E]bom Consola[A]dor."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Vem as [A]bênçãos derramar e, os que [D]dormem, desper[A]tar;",
+                    "Manda-[E]nos Teu po[A]der;",
+                    "E das nossas vidas faz teste[D]munho efi[A]caz;",
+                    "Manda-[E]nos Teu po[A]der."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Vem nos [A]dar as orações, visi[D]tando os cora[A]ções;",
+                    "Manda-[E]nos Teu po[A]der;",
+                    "Em constante comunhão, espe[D]ramos Tua un[A]ção;",
+                    "Manda-[E]nos Teu po[A]der"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "slug": "20",
+        "numero": 20,
+        "nome": "Teu Espírito derrama",
+        "colecao": "hinario",
+        "tom": "G",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Teu Es[G]pírito derrama",
+                    "Sobre [D]Teus fiéis, Se[G]nhor,",
+                    "Que, humildes e contritos,",
+                    "Buscam [D]o Consola[G]dor."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "[G]Vem com Teu Poder, Senhor, [D]Teu povo for[G]tificar;",
+                    "Com o bom Consolador, vem, [D]oh! Vem bati[G]zar."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Teu Es[G]pírito derrama,",
+                    "A pro[D]messa cumpre, ó [G]Deus,",
+                    "Enviando aos Teus filhos",
+                    "As vir[D]tudes lá dos [G]céus."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Teu Es[G]pírito derrama,",
+                    "Reves[D]tindo-nos de a[G]mor;",
+                    "Dos Teus dons maravilhosos,",
+                    "Enri[D]quece-nos, Se[G]nhor"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "slug": "21",
+        "numero": 21,
+        "nome": "Não mais oprimidos seremos",
+        "colecao": "hinario",
+        "tom": "E",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Não [E]mais opri[B]midos se[E]remos",
+                    "Na volta do [B]nosso Se[E]nhor;",
+                    "A voz espe[B]rada ouvi[E]remos:",
+                    "“Oh! Vinde!”, di[B]rá o Salva[E]dor;",
+                    "A vida e[A]terna com [E]glória",
+                    "Teremos, por [B]Cristo, nos [E]céus;",
+                    "Com[A]pleta será a vi[E]tória",
+                    "Ao vermos a [B]face de [E]Deus."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Não [E]mais perse[B]guidos se[E]remos",
+                    "Na volta do [B]nosso Se[E]nhor;",
+                    "Deixando este [B]mundo, i[E]remos",
+                    "Ao céu, nossa [B]pátria de a[E]mor;",
+                    "Naquela ci[A]dade glo[E]riosa,",
+                    "Lugar de e[B]terno esplen[E]dor,",
+                    "A he[A]rança divina, pre[E]ciosa,",
+                    "Teremos de [B]Deus, Cria[E]dor."
+                ]
+            },
+            {
+                "tipo": "final",
+                "linhas": [
+                    "A [E]volta de Cristo glorioso",
+                    "Será com poder e esplen[B]dor;",
+                    "Devemos estar revestidos",
+                    "De graça, justiça e a[E]mor.",
+                    "Iremos, então, ó queridos,",
+                    "Desfrutar a he[E7]rança eter[A]nal,",
+                    "Pois Jesus nos da[E]rá a coroa re[A]al,",
+                    "No di[E]toso lar [B]celesti[E]al."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "slug": "22",
+        "numero": 22,
+        "nome": "Guia-me, ó Senhor",
+        "colecao": "hinario",
+        "tom": "A",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[A]Guia-me, ó Senhor, [E]na fulgurante [A]luz;",
+                    "Dá-me mais do amor, [E]que á glória me con[A]duz."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "[A]Guia-me, [D]guia-me [A]com Tua mão, Se[E]nhor;",
+                    "[A]Guarda-me, [D]guarda-me [E]do mundo engana[A]dor."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[A]Guia-me, bom Jesus, [E]descanso eu te[A]rei;",
+                    "Rege-me pela luz [E]que vem de Ti, meu [A]Rei."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[A]Guia-me, Salvador, [E]na Tua santa [A]lei;",
+                    "Guarda-me em amor, [E]Teu Nome bendi[A]rei."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "slug": "23",
+        "numero": 23,
+        "nome": "O Senhor é o meu Pastor",
+        "colecao": "hinario",
+        "tom": "G",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[G]O Senhor é o [D]meu Pas[G]tor, [C]nada deixa[G]rá me fal[D]tar;",
+                    "[G]Com a Sua [C]mansidão, [G]em verdes pastos [D]faz-me an[G]dar;",
+                    "Refrigério, [D]fé e paz [B7]minha [Em7]alma [A]n'Ele a[D]chou;",
+                    "[G]Nas ve[D]redas [G]celes[C]tiais, [G]os meus [D]passos Jesus fir[G]mou."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[G]Se eu tivesse [D]que an[G]dar [C]pelo vale [G]da morte, ó [D]Deus,",
+                    "[G]Eu não teme[C]ria o mal, [G]porquanto estou nos [D]braços [G]Teus;",
+                    "Tua vara, [D]ó Senhor, [B7]me con[Em7]serva em [A]reti[D]dão,",
+                    "[G]Teu ca[D]jado [G]divi[C]nal [G]traz con[D]forto e consola[G]ção."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "[G]Uma mesa [D]para [G]mim, [C]ó Senhor, Tu [G]vens prepa[D]rar;",
+                    "[G]Com Teu óleo [C]vens me ungir, [G]fazes meu cálix [D]transbor[G]dar;",
+                    "A bondade, [D]a mercê [B7]sobre [Em7]mim con[A]templa[D]rei;",
+                    "[G]Nas mo[D]radas [G]do meu [C]Deus [G]para [D]sempre habita[G]rei."
                 ]
             }
         ]
