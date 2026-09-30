@@ -6,7 +6,7 @@ import PaginaHino from "./pages/PaginaHino";
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/cifras_ccb">
       <Routes>
         <Route path="/" element={<ListaHinos />} />
         <Route path="/hino/:slug" element={<PaginaHino />} />
