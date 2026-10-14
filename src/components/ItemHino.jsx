@@ -6,7 +6,10 @@ function ItemHino({ hino }) {
         <li className="item-hino">
             <Link to={`/hino/${hino.slug}`} className="item-link">
                 <span className="item-numero">{hino.numero}</span>
-                <span className="item-nome">{hino.nome}</span>
+                <div className="item-texto">
+                    <span className="item-nome">{hino.nome}</span>
+                    {hino.autor && <span className="item-autor">{hino.autor}</span>}
+                </div>
             </Link>
         </li>
     );

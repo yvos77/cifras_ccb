@@ -14,10 +14,9 @@ function combina(hino, busca) {
   }
 
   return hino.nome.toLowerCase().includes(busca.toLowerCase());
-
 }
 
-function ListaHinos() {
+function ListaHinos({ aba, setAba }) {
   const [hinos, setHinos] = useState([]);
   const [texto, setTexto] = useState("");
 
@@ -25,39 +24,68 @@ function ListaHinos() {
     listarHinos().then((resultado) => setHinos(resultado));
   }, []);
 
-const visiveis = hinos.filter((hino) => combina(hino, texto));
-const hinario = visiveis.filter((hino) => hino.colecao === "hinario");
-const avulso = visiveis.filter((hino) => hino.colecao === "avulso");
+  const buscando = texto.trim() !== "";
 
+  const visiveis = hinos.filter((hino) => combina(hino, texto));
+  const hinario = visiveis.filter((hino) => hino.colecao === "hinario");
+  const avulso = visiveis.filter((hino) => hino.colecao === "avulso");
+
+  function grupo(titulo, lista) {
+    if (lista.length === 0) {
+      return null;
+    }
+
+    return (
+      <>
+        {titulo && <h2 className="grupo-titulo">{titulo}</h2>}
+        <ul>
+          {lista.map((hino) => (
+            <ItemHino key={hino.id} hino={hino} />
+          ))}
+        </ul>
+      </>
+    );
+  }
 
   return (
     <div>
       <h1>Cifras CCB</h1>
-      <input className="busca" placeholder="Pesquisar hino" value={texto} onChange={(e) => setTexto(e.target.value)} />
+
+      <input
+        className="busca"
+        placeholder="Pesquisar hino"
+        value={texto}
+        onChange={(e) => setTexto(e.target.value)}
+      />
+
+      {!buscando && (
+        <div className="abas">
+          <button
+            className={aba === "hinario" ? "aba ativa" : "aba"}
+            onClick={() => setAba("hinario")}
+          >
+            Hinário
+          </button>
+          <button
+            className={aba === "avulso" ? "aba ativa" : "aba"}
+            onClick={() => setAba("avulso")}
+          >
+            Avulsos
+          </button>
+        </div>
+      )}
+
       {visiveis.length === 0 && (
-        <>
-          <p>Nenhum hino encontrado para "{texto}"</p>
-        </>
+        <p>Nenhum hino encontrado para "{texto}"</p>
       )}
-      {hinario.length > 0 && (
+
+      {buscando ? (
         <>
-          <h2>Hinário</h2>
-          <ul>
-            {hinario.map((hino) => (
-              <ItemHino key={hino.id} hino={hino} />
-            ))}
-          </ul>
+          {grupo("Hinário", hinario)}
+          {grupo("Avulsos", avulso)}
         </>
-      )}
-      {avulso.length > 0 && (
-        <>
-          <h2>Avulsos</h2>
-          <ul>
-            {avulso.map((hino) => (
-              <ItemHino key={hino.id} hino={hino} />
-            ))}
-          </ul>
-        </>
+      ) : (
+        grupo(null, aba === "hinario" ? hinario : avulso)
       )}
     </div>
   );

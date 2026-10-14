@@ -991,6 +991,7 @@
         "nome": "Está escrito",
         "colecao": "avulso",
         "tom": "A",
+        "autor":"Wisley",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1017,6 +1018,298 @@
                     "Apenas [D]creia e não pare de lu[A]tar[E];",
                     "Não há gig[A]ante que prospere em nossa [D]vida;",
                     "Se em n[A]osso cora[E]ção a fé rei[A]nar."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 482,
+        "slug": "precisar-ouvir",
+        "numero": null,
+        "nome": "Quando eu precisar ouvir",
+        "colecao": "avulso",
+        "tom": "E",
+        "autor":"Lucas Nasser",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Muitas vezes, eu oro com vontade",
+                    "Na inocência, para alcançar o meu Senhor",
+                    "Muitas vezes, eu me encontro desejoso",
+                    "Na esperança de encontrar o meu Senhor"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Mas as vezes eu me sinto tão provado",
+                    "E sem forças",
+                    "Eu não escuto a tua voz",
+                    "Senhor, aumente a minha fé, ensina-me meu Deus",
+                    "Senhor, ouça a minha voz, escute meu clamor"
+                ]
+            },
+            {
+                "tipo": "final",
+                "linhas": [
+                    "Mas quando eu precisar ouvir",
+                    "Como a voz de muitas águas",
+                    "Que eu esteja preparado a seguir",
+                    "Que o caminho, a verdade e a vida",
+                    "Possa ser a luz que brilha",
+                    "Do início ao fim do dia",
+                    "Do anoitecer ao amanhecer"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 483,
+        "slug": "so-jesus-pela-cruz",
+        "numero": null,
+        "nome": "Só Jesus! Pela Cruz",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Lucas Santana",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Eu olhei para mim e só pecado eu vi",
+                    "Preso a meus próprios membros eu me senti.",
+                    "Triste eu me pergunto: ''Quem me pode livrar?''",
+                    "E ''Quem pode meu jugo levar?''"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Só Jesus! Pela Cruz! Pode, enfim, me libertar!",
+                    "Minha alma Ele pode santificar!",
+                    "Eu não escuto a tua voz",
+                    "Por amor, vem, meu Mestre, converter o meu ser",
+                    "Pois eu quero contigo viver!"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Tua sã lei divina eu desejo amar",
+                    "Pois a carne eu quero mortificar!",
+                    "Mas sozinho pereço, neste meu fraco ser.",
+                    "Quem fará meu pecado morrer?"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Deste mundo de trevas, eu cansado estou",
+                    "Só angústias e enfado ele me ofertou.",
+                    "Como aqui nada espero, então clamo assim:",
+                    "Quem daqui me resgata a mim?"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 484,
+        "slug": "a-voz-do-senhor",
+        "numero": null,
+        "nome": "A voz do Senhor",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Wisley",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "A voz do Senhor inundou o meu ser,",
+                    "fez minh'alma estremecer.",
+                    "Que voz sem igual! Transformou-me assim.",
+                    "Já não posso viver sem ti."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Incondicional foi seu amor por mim,",
+                    "quero amá-lo até ao fim. ",
+                    "Nada poderá separar-me do amor,",
+                    "de Jesus meu bom Salvador."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "A voz do Senhor faz a Terra tremer,",
+                    "o inimigo estremecer.",
+                    "Dissipa o mal e da paz celestial.",
+                    "Ó que voz que não tem igual."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ó Terra, ó ceus, adoremos a Deus",
+                    "pelo seu glorioso amor.",
+                    "Em um coro santo entoemos louvor,",
+                    "a Deus Pai nosso Criador."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 485,
+        "slug": "ouco-passos",
+        "numero": null,
+        "nome": "Ouço passos de Cristo",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Wisley",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ouço passos, são de Cristo.",
+                    "Em resposta a minha súplica Ele vem",
+                    "Vem saltando sobre os montes,",
+                    "em socorro à minh'alma ele vem.",
+                    "Batalha acirrada enfrentando eu estou,",
+                    "mas Jesus Cristo vem me ajudar.",
+                    "Vem Jesus! Poderoso!",
+                    "Me ajuda essa guerra enfrentar."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 486,
+        "slug": "santidade",
+        "numero": null,
+        "nome": "Santidade",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Wisley",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Se queres alcançar vida eterna la no céu,",
+                    "Caminha sempre na santidade.",
+                    "Se queres ver a face de Deus como ela e,",
+                    "Caminha sempre na santidade."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Os servos do Senhor a santidade sempre buscarao.",
+                    "Brilhando, vao marchando",
+                    "Ao lar nos ceus."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Se queres ser amigo de Deus como Abraão,",
+                    "Caminha sempre na santidade.",
+                    "Se queres ser guerreiro de Deus como Sansão,",
+                    "Caminha sempre na santidade."
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Se queres percorrer as pisadas de Jesus",
+                    "Caminha sempre na santidade.",
+                    "Se queres receber o amor que aos ceus conduz",
+                    "Caminha sempre na santidade."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 487,
+        "slug": "meu-senhor-aguardo-aqui",
+        "numero": null,
+        "nome": "Meu Senhor, eu aguardo aqui",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Meu Senhor, eu aguardo aqui",
+                    "A tua promessa em mim cumprir",
+                    "Eu bem sei que mui fraco sou",
+                    "Mas caminhando eu vou pelo teu amor"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Lutarei, com todo o fervor, com fé, ó meu Senhor",
+                    "Eu te servirei!",
+                    "Se tardar, eu te esperarei",
+                    "Não desanimarei, te aguardarei",
+                    "Mas se eu falhar, me perdoa, ó Deus,",
+                    "Queiras me ensinar aqui caminhar",
+                    "Mas se eu cair me tira do chão,",
+                    "Estenda a tua mão, Salva-me, Senhor!"
+                ]
+            },
+            {
+                "tipo": "final",
+                "linhas": [
+                    "Confiante, eu aguardo o teu operar",
+                    "Só em ti, eu encontro forças pra lutar",
+                    "Meu Senhor, eu aguardo aqui",
+                    "A tua promessa em mim cumprir"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 488,
+        "slug": "meu-querido-irmao",
+        "numero": null,
+        "nome": "Meu querido irmão",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Parece que a tua vitória",
+                    "Está longe das tuas mãos",
+                    "Veio muitas lutas e provas",
+                    "Visitando o teu coração",
+                    "Preste atenção neste hino",
+                    "Esta canção ela vai te falar",
+                    "Não importa a aflição e angústia",
+                    "Por que hoje Deus vai te visitar"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Meu querido irmão Deus está com você",
+                    "Pode o vento soprar, o mar levantar",
+                    "Mas teu barco não vai afundar",
+                    "Sinta hoje irmão Deus te visitar",
+                    "As correntes soltar, as ondas acalmar"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Hoje é o dia da vitória",
+                    "Que Deus reservou pra você",
+                    "Canta, canta sim passarinho",
+                    "Pois a guerra você vai vencer"
                 ]
             }
         ]
