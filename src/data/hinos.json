@@ -991,7 +991,7 @@
         "nome": "Está escrito",
         "colecao": "avulso",
         "tom": "A",
-        "autor":"Wisley",
+        "autor": "Wisley",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1029,7 +1029,7 @@
         "nome": "Quando eu precisar ouvir",
         "colecao": "avulso",
         "tom": "E",
-        "autor":"Lucas Nasser",
+        "autor": "Lucas Nasser",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1071,7 +1071,7 @@
         "nome": "Só Jesus! Pela Cruz",
         "colecao": "avulso",
         "tom": null,
-        "autor":"Lucas Santana",
+        "autor": "Lucas Santana",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1119,7 +1119,7 @@
         "nome": "A voz do Senhor",
         "colecao": "avulso",
         "tom": null,
-        "autor":"Wisley",
+        "autor": "Wisley",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1166,7 +1166,7 @@
         "nome": "Ouço passos de Cristo",
         "colecao": "avulso",
         "tom": null,
-        "autor":"Wisley",
+        "autor": "Wisley",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1190,7 +1190,7 @@
         "nome": "Santidade",
         "colecao": "avulso",
         "tom": null,
-        "autor":"Wisley",
+        "autor": "Wisley",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1236,7 +1236,7 @@
         "nome": "Meu Senhor, eu aguardo aqui",
         "colecao": "avulso",
         "tom": null,
-        "autor":"Avulso",
+        "autor": "Avulso",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1278,7 +1278,7 @@
         "nome": "Meu querido irmão",
         "colecao": "avulso",
         "tom": null,
-        "autor":"Avulso",
+        "autor": "Avulso",
         "secoes": [
             {
                 "tipo": "estrofe",
@@ -1310,6 +1310,149 @@
                     "Que Deus reservou pra você",
                     "Canta, canta sim passarinho",
                     "Pois a guerra você vai vencer"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 489,
+        "slug": "jesus-o-bom-amigo",
+        "numero": null,
+        "nome": "Jesus o Bom Amigo",
+        "colecao": "avulso",
+        "tom": null,
+        "autor": "Harpa Cristã - 198",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Achei um bom amigo",
+                    "Jesus, o Salvador",
+                    "O escolhido dos milhares para mim",
+                    "Dos vales é o lírio, é o forte Mediador",
+                    "Que me purifica e guarda para Si",
+                    "Consolador amado, meu protetor do mal",
+                    "Solicitude minha toma a Si"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Dos vales é o lírio, a estrela da manhã",
+                    "O escolhido dos milhares para mim",
+                    "Consolador amado, meu protetor do mal",
+                    "Solicitude minha toma a Si",
+                    "Dos vales é o lírio, a estrela da manhã",
+                    "O escolhido dos milhares para mim"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Levou-me as dores todas",
+                    "As mágoas Lhe entreguei",
+                    "Minha fortaleza é, na tentação",
+                    "Deixei por Ele tudo, os ídolos queimei",
+                    "Ele me conserva santo o coração",
+                    "Que o mundo me abandone, persiga o tentador",
+                    "Jesus me guarda até da vida o fim"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Não desampara nunca",
+                    "Nem me abandonará",
+                    "Se fiel e obediente eu viver",
+                    "Um muro é de fogo, que me protegerá",
+                    "Até que venha a mim o tempo de morrer",
+                    "Ao céu então voando, em glória eu verei",
+                    "Onde a dor e a morte nunca, nunca vêm"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 490,
+        "slug": "ouca-bem",
+        "numero": null,
+        "nome": "Ouça bem",
+        "colecao": "avulso",
+        "tom": null,
+        "autor": "Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ouça bem, uma canção eu vou cantar,",
+                    "E nela eu venho te dizer que Jesus Cristo vai voltar.",
+                    "Ele quer transformar todo o teu ser,",
+                    "Basta você entregar a ele todo o seu viver.",
+                    "Levante as mãos, não tenha medo de sentir,",
+                    "Sua presença te tocar,",
+                    "Com ele tu serás feliz."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "O mundo é triste,",
+                    "Nunca te deu valor,",
+                    "Não te iludas mais, somente Deus tem paz,",
+                    "E quer te dar valor.",
+                    "Vem a Cristo te entregar,",
+                    "A vida eterna ele quer te dar,",
+                    "Sua vida vai mudar e não terás mais dor,",
+                    "E não terás mais dor!"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ouça bem, somente o tempo poderá dizer,",
+                    "Se tú servires ao Senhor, uma benção abraçarás.",
+                    "Dirás então, ser crente é tudo o que eu quis,",
+                    "No mundo eu nunca tive paz,",
+                    "Agora como eu sou feliz!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 491,
+        "slug": "jesus-o-filho-de-davi",
+        "numero": null,
+        "nome": "Jesus, Ó Filho de Davi",
+        "colecao": "avulso",
+        "tom": null,
+        "autor": "Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ouvir dizer, que Jesus Cristo",
+                    "Por aqui hoje vai passar",
+                    "Eu clamarei até me ouvir",
+                    "Eu clamarei preciso de ti"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Jesus ó filho de Davi!",
+                    "Tenha misericórdia de mim",
+                    "Tua voz santa quero ouvir",
+                    "Eu clamarei até me ouvir",
+                    "Eu clamarei preciso de ti"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Aqui na estrada desta vida",
+                    "Ninguém me pode ajudar",
+                    "És tu a minha esperança",
+                    "Por isso estou a te clamar"
                 ]
             }
         ]
