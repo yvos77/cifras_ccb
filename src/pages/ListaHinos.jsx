@@ -49,8 +49,9 @@ function ListaHinos({ aba, setAba }) {
 
   return (
     <div>
-      <h1>Cifras CCB</h1>
-
+      <header className="cabecalho">
+        <h1>Cifras CCB</h1>
+      </header>
       <input
         className="busca"
         placeholder="Pesquisar hino"

@@ -78,6 +78,22 @@ a {
   text-decoration: none;
 }
 
+.cabecalho {
+  margin-bottom: 1.25rem;
+}
+
+.cabecalho h1 {
+  margin: 0;
+}
+
+.cabecalho p {
+  max-width: 34ch;
+  margin-top: 0.3rem;
+  font-size: 0.85rem;
+  line-height: 1.35;
+  color: var(--text);
+}
+
 .busca {
   width: 100%;
   padding: 0.7rem;

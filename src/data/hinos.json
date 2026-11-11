@@ -1195,18 +1195,18 @@
             {
                 "tipo": "estrofe",
                 "linhas": [
-                    "Se queres alcançar vida eterna la no céu,",
+                    "Se queres alcançar vida eterna lá no céu,",
                     "Caminha sempre na santidade.",
-                    "Se queres ver a face de Deus como ela e,",
+                    "Se queres ver a face de Deus como ela é,",
                     "Caminha sempre na santidade."
                 ]
             },
             {
                 "tipo": "coro",
                 "linhas": [
-                    "Os servos do Senhor a santidade sempre buscarao.",
-                    "Brilhando, vao marchando",
-                    "Ao lar nos ceus."
+                    "Os servos do Senhor a santidade sempre buscarão.",
+                    "Brilhando, vão marchando",
+                    "Ao lar nos céus."
                 ]
             },
             {
@@ -1223,7 +1223,7 @@
                 "linhas": [
                     "Se queres percorrer as pisadas de Jesus",
                     "Caminha sempre na santidade.",
-                    "Se queres receber o amor que aos ceus conduz",
+                    "Se queres receber o amor que aos céus conduz",
                     "Caminha sempre na santidade."
                 ]
             }
@@ -1300,7 +1300,8 @@
                     "Pode o vento soprar, o mar levantar",
                     "Mas teu barco não vai afundar",
                     "Sinta hoje irmão Deus te visitar",
-                    "As correntes soltar, as ondas acalmar"
+                    "As correntes soltar, as ondas acalmar",
+                    "E Deus Ele te libertar!"
                 ]
             },
             {
@@ -1310,6 +1311,383 @@
                     "Que Deus reservou pra você",
                     "Canta, canta sim passarinho",
                     "Pois a guerra você vai vencer"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 489,
+        "slug": "gloria-wisley",
+        "numero": null,
+        "nome": "Jesus vem nos buscar",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Wisley",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Embora eu aguarde aqui no mundo",
+                    "Promessas do Senhor em mim cumprir",
+                    "Nada pode se igualar",
+                    "Com a glória a revelar",
+                    "Quando o nosso Salvador vir me buscar",
+                    "Eu canto Glória!"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Glória! (Oh glória!)",
+                    "O nosso Salvador vem nos buscar",
+                    "Glória! (Oh glória!)",
+                    "Toda a tribulação terminará"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Às vezes a ansiedade dessa vida",
+                    "Me faz do alvo eterno desviar",
+                    "Mas eu sei que nada disso",
+                    "Pode em mim prosperar",
+                    "Quando eu lembro que Jesus vem me buscar",
+                    "Eu canto Glória!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 490,
+        "slug": "gloria",
+        "numero": null,
+        "nome": "Glória",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Existe aqui várias canções",
+                    "Pra te exaltar, te glorificar",
+                    "Tentando te agradar",
+                    "Por que se tu quiseres tu podes nos libertar",
+                    "E se cantarmos de verdade e de coração",
+                    "Tocarmos na sua orla",
+                    "Com esta canção",
+                    "Tu aceitarás a nossa glorificação"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Glória, glória, glória, a Jesus",
+                    "Glória, oh oh glória a Jesus"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Quantas vezes nós cantamos que a tristeza vem",
+                    "E tu nos socorre",
+                    "E tu sempre vem",
+                    "E nos esquecemos de dizer glória",
+                    "Mas se cantarmos de verdade e de coração",
+                    "Tocarmos na sua orla, com essa canção",
+                    "Tu aceitarás a nossa glorificação"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 491,
+        "slug": "mestre",
+        "numero": null,
+        "nome": "Mestre (Barquinho)",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Mestre",
+                    "O meu mar se agitou",
+                    "Tempestade assolou",
+                    "O meu coração"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Mestre",
+                    "O meu barco frágil é",
+                    "Pouca é a minha fé",
+                    "Onde tu estás?",
+                    "Mas eu sei que tudo podes oh Senhor!",
+                    "Uma ordem tua e tudo se formou"
+                ]
+            },
+            {
+                "tipo": "final",
+                "linhas": [
+                    "Haja paz",
+                    "Haja vida",
+                    "Haja calma",
+                    "No teu barquinho eu já estou!",
+                    "Então confia",
+                    "Creia",
+                    "Tenha calma",
+                    "Teu barco não vai afundar",
+                    "Então creia"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 492,
+        "slug": "mocidade-valente",
+        "numero": null,
+        "nome": "Mocidade Valente!",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Lembra-te do teu Criador",
+                    "Lembra-te do teu Exaltador",
+                    "Antes que escureça o sol, a luz e a lua",
+                    "E as estrelas tornem a vir depois da chuva"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Mocidade valente!",
+                    "Jesus Cristo vai a frente!",
+                    "Vamos orar (na comunhão)",
+                    "Vamos buscar (na comunhão)",
+                    "Vamos cantar (na comunhão)",
+                    "E todos juntos a Deus louvar!"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Não siga este caminho, não faça assim",
+                    "Entre na comunhão e ouça o que Deus te diz",
+                    "Não deixe a vaidade te destruir",
+                    "Pegue na minha mão e vem a mim!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 493,
+        "slug": "salmos137",
+        "numero": null,
+        "nome": "Salmos 137",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Assentado junto a esses rios, Senhor estou",
+                    "Consumido de tristeza pelo que aconteceu",
+                    "Cercaram todos meus irmãos, saquearam todos os seus bens",
+                    "E agora em cativo lembrando de Sião choramos"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "O concerto que Deus fez aos nossos pais",
+                    "Transgredidos por alguns, sofreram os demais",
+                    "E aqueles que nos destruíram nos pediam uma canção",
+                    "E que os alegrássemos cantando um cântico lá de Sião",
+                    "No salgueiro minha harpa pendurei",
+                    "Pois como em terra estranha, a ti Senhor, meu louvor entoarei",
+                    "Jamais esquecerei de ti Jerusalém",
+                    "(Recitativo)"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Sei que um dia o meu Senhor daqui me tirará",
+                    "E novamente adorarei meu Deus nos montes de Judá",
+                    "Por isso agora nessa oração humilhado estamos a te implorar",
+                    "Perdoa as nossas transgressões e vem Senhor nos libertar",
+                    "Vem. . . Senhor, com tua forte mão, vem nos socorrer",
+                    "E em Jerusalém alegre cantarei",
+                    "Jamais esquecerei de ti Jerusalém"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 494,
+        "slug": "no-principio",
+        "numero": null,
+        "nome": "No Princípio",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "No princípio Eu olhei",
+                    "Era trevas e abismos",
+                    "Foi então que Eu resolvi",
+                    "Preencher aquele vazio",
+                    "Quando Eu disse haja luz",
+                    "Eu vi brilhar a esperança",
+                    "A alegria coloriu",
+                    "No jardim da minha herança",
+                    "(Então disse Deus)"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Façamos o homem",
+                    "A nossa imagem",
+                    "E semelhança",
+                    "Assim nós faremos",
+                    "Convocaremos a terra",
+                    "A água e o ar",
+                    "E o fogo ardente",
+                    "Uniremos todos em um só sentimento",
+                    "Sopraremos o barro a alma vivente",
+                    "Em minhas mãos é o vaso",
+                    "Provado no fogo",
+                    "E eu sou o oleiro",
+                    "(O oleiro)"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Deus criou todas as flores",
+                    "E nelas pôs a beleza",
+                    "Fez a terra produzir",
+                    "E no meio de um jardim",
+                    "Fez nascer a árvore da vida",
+                    "E houve uma reunião",
+                    "E o amor apresentou-se",
+                    "E o verbo anunciou",
+                    "Existirá um ser vivente",
+                    "Pra vencer o tentador",
+                    "(Então disse Deus)"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 495,
+        "slug": "ser-valente",
+        "numero": null,
+        "nome": "O que é ser valente?",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "O que é ser valente? É não recuar!",
+                    "É seguir em frente com perseverança,",
+                    "Sempre avançar!",
+                    "Não temer a guerra, ser de coração,",
+                    "Varão valoroso, jovem consagrado,",
+                    "Mulher de missão."
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Deus te quer assim: Sempre guerreando,",
+                    "Vencendo a prova contra o mal lutando,",
+                    "No final de tudo te coroará, te coroará",
+                    "No reino eterno onde a luta enfim, cessará!"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Ser valente é manter no coração,",
+                    "O firme propósito de entrar no céu,",
+                    "Eternal mansão!",
+                    "Combater na guerra,",
+                    "Lutar e vencer",
+                    "Mesmo que ferido pelo inimigo,",
+                    "Não esmorecer!"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "O que ser é ser valente? É viver da fé!",
+                    "É ter Cristo presente no seu dia-a-dia,",
+                    "Estar sempre de pé.",
+                    "E mesmo que os ventos tentem derrubar,",
+                    "É como a palmeira vai até o chão,",
+                    "Torna a levantar!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 496,
+        "slug": "povo-barulhento",
+        "numero": null,
+        "nome": "Povo barulhento",
+        "colecao": "avulso",
+        "tom": null,
+        "autor":"Avulso",
+        "secoes": [
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Muito em breve, vai sair uma notícia",
+                    "De um povo que desapareceu",
+                    "Era um povo muito humilde que aqui muito sofreu",
+                    "Aquele povo era o povo de Deus"
+                ]
+            },
+            {
+                "tipo": "coro",
+                "linhas": [
+                    "Onde está aquele povo barulhento?",
+                    "Onde está, que não se vê nenhum irmão?",
+                    "Alguém com voz de lamento",
+                    "Vai dizer neste momento",
+                    "Aquele povo foi embora pra Sião"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Onde está a juventude desta igreja?",
+                    "E as irmãs do círculo de oração",
+                    "Que a Deus tanto clamavam?",
+                    "E as crianças que cantavam?",
+                    "Elas também foram morar lá em Sião"
+                ]
+            },
+            {
+                "tipo": "estrofe",
+                "linhas": [
+                    "Depois deste grande acontecimento",
+                    "Muitos crentes desviados vão voltar",
+                    "Procurando os irmãos para reconciliação",
+                    "Mas, infelizmente, não vão encontrar"
                 ]
             }
         ]
